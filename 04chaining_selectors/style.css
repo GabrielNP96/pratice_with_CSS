@@ -1,0 +1,10 @@
+.img,
+.original {
+    width: 300px;
+    height: auto;
+}
+
+.distorced {
+    width: 200px;
+    height: 350px;
+}
