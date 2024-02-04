@@ -12,16 +12,17 @@ body {
     font-weight: 900;
     text-align: center;
     padding: 8px;
-    padding-bottom: 25px;
+    padding-bottom: 32px;
   }
 
   .imagens-info {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
   }
 
   .image {
     text-align: center;
+    padding: 52px;
   }
   
   /* do not edit this footer */
